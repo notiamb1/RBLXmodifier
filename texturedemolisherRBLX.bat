@@ -2,7 +2,7 @@
 echo ----------------------------------------
 echo TEXTURE DEMOLISHER FOR ROBLOX
 echo ----------------------------------------
-echo
+echo[
 echo Enter file path for ROBLOX
 set /p filepath=
 cd %filepath%
