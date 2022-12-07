@@ -56,6 +56,8 @@ exit
 :changecursor
 cls
 xcopy /y /z %filepath%\content\textures\ArrowFarCursor.png %filepath%\content\textures\Cursors\KeyboardMouse
+xcopy /y /z %filepath%\content\textures\ArrowCursor.png %filepath%\content\textures\Cursors\KeyboardMouse
+xcopy /y /z %filepath%\content\textures\IBeamCursor.png %filepath%\content\textures\Cursors\KeyboardMouse
 cls
 echo ----------------------------------------
 echo ROBLOX MODIFIER
