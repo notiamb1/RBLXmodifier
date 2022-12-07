@@ -1,5 +1,5 @@
 @echo off
-echo Type File Path for ROBLOX
+echo ROBLOX file path
 set /p filepath=
 cd %filepath%
 md %filepath%\ClientSettings
