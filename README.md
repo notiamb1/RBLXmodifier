@@ -1,4 +1,4 @@
 # texturedisabler4roblox
 
 automatic texture deleting
-requires roblox client path
+and requires roblox client path
