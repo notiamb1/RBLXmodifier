@@ -6,7 +6,7 @@ md %filepath%\ClientSettings
 cd %filepath%\PlatformContent\pc\textures\
 echo Deleting textures, press any key to continue
 pause
-echo deletion process starting
+echo Deletion process starting
 rd /s brick
 rd /s cobblestone
 rd /s concrete
